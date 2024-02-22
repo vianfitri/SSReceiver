@@ -5,6 +5,7 @@
 #include <IRremote.hpp>
 
 #define IR_RECEIVE_PIN 15
+
 #define CE_PIN 9
 #define CNS_PIN 10
 
